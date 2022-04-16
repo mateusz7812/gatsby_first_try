@@ -7,19 +7,26 @@
   "dependencies": {
     "gatsby": "^4.11.3",
     "gatsby-link": "^4.12.1",
+    "gatsby-plugin-disqus": "^1.2.3",
     "gatsby-plugin-gatsby-cloud": "^4.11.1",
-    "gatsby-plugin-image": "^2.11.1",
+    "gatsby-plugin-image": "^2.12.1",
+    "gatsby-plugin-local-search": "^2.0.1",
     "gatsby-plugin-manifest": "^4.11.1",
     "gatsby-plugin-offline": "^5.11.1",
     "gatsby-plugin-react-helmet": "^5.11.0",
-    "gatsby-plugin-sharp": "^4.11.1",
-    "gatsby-source-filesystem": "^4.11.1",
+    "gatsby-plugin-sharp": "^4.12.1",
+    "gatsby-remark-embed-video": "^3.1.1",
+    "gatsby-remark-images": "^6.12.1",
+    "gatsby-remark-prismjs": "^6.12.1",
+    "gatsby-remark-responsive-iframe": "^5.12.1",
+    "gatsby-source-filesystem": "^4.12.1",
     "gatsby-transformer-remark": "^5.12.1",
-    "gatsby-transformer-sharp": "^4.11.0",
+    "gatsby-transformer-sharp": "^4.12.1",
     "prop-types": "^15.8.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "react-helmet": "^6.1.0"
+    "react-helmet": "^6.1.0",
+    "react-use-flexsearch": "^0.1.1"
   },
   "devDependencies": {
     "prettier": "^2.6.2"
